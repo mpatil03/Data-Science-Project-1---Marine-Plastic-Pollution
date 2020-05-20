@@ -66,3 +66,12 @@ According to all the accuracy measures, Holt’s Linear Trend method seems more 
 5) Maximum plastic waste in the ocean is coming from Asia. It is plastic waste input rate in percent is 86.13%
 
 6) Covid-19 Pandemic might change the statistics in the coming months, but it is uncertain as we lack proper evidence (Data).
+
+#### References
+https://machinelearningmastery.com/exponential-smoothing-for-time-series-forecasting-in-python/
+https://otexts.com/fpp2/holt.html
+https://robjhyndman.com/papers/sst2.pdf
+https://www.ecowatch.com/coronavirus-plastic-waste-2645831072.html?rebelltitem=4#rebelltitem4
+https://ourworldindata.org/plastic-pollution#how-does-plastic-impact-wildlife-and-human-health
+https://www.scmp.com/comment/letters/article/3079371/covid-19-and-plastic-pollution-we-can-and-should-fight-both
+https://www.dw.com/en/coronavirus-plastic-waste-polluting-the-environment/a-53216807
