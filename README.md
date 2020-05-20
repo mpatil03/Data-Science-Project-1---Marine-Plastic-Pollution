@@ -29,10 +29,15 @@ Level equation ℓt=αyt+(1−α)(ℓt−1+bt−1)
 Trend equation bt=β∗(ℓt−ℓt−1)+(1−β∗)bt−1,
 
 Here, 
+
 ℓt = Estimate of the level of time series 
+
 bt = Estimate of the trend of a series 
+
 α = Smoothing parameter for a 
+
 level = Smoothing parameter for a trend
+
 
 #### 4. Holt’s damped method:
 In this method of forecasting additional parameter is added into the holt's linear method called a damping parameter. This method is appropriate for long-run forecasts. As damping parameter dampens, trend pattern forecast will remain constant for the long-run forecast.
@@ -44,3 +49,6 @@ Level equation ℓt=αyt+(1−α)(ℓt−1+ϕbt−1)
 Trend equation bt=β∗(ℓt−ℓt−1)+(1−β∗)ϕbt−1
 
 Φ = Damping Parameter.
+
+#### Result from above forecasting methods:
+According to all the accuracy measures, Holt’s Linear Trend method seems more accurate. MAPE for Holt's linear trend model is 4.58, which implies a 4% error in the prediction. The damping parameter ϕ is 0.98. If the damping parameter is less than 0.80, it indicates damping has a powerful effect on the model. If ϕ is equal to 1, then we can say it is identical to Holt's linear trend model with no distinguishable result.
