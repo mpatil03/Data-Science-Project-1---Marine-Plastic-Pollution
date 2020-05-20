@@ -52,3 +52,17 @@ Trend equation bt=β∗(ℓt−ℓt−1)+(1−β∗)ϕbt−1
 
 #### Result from above forecasting methods:
 According to all the accuracy measures, Holt’s Linear Trend method seems more accurate. MAPE for Holt's linear trend model is 4.58, which implies a 4% error in the prediction. The damping parameter ϕ is 0.98. If the damping parameter is less than 0.80, it indicates damping has a powerful effect on the model. If ϕ is equal to 1, then we can say it is identical to Holt's linear trend model with no distinguishable result.
+
+### Insights from Tableau Dashboards
+
+1) Plastic Production rate is rising at an exponential rate. In just 15 years, the rate of plastic production doubled. If the same continues, we will be facing its consequences, and our environment might be at risk.
+
+2) Plastic waste management of Upper Middle Income (UMI) and Lower Middle Income (LMI) counties is significantly weak.
+
+3) Countries that are most responsible for producing more plastic waste to oceans are – China, Indonesia, Philippines, Vietnam, with a high coastal population, and high mismanaged plastic waste rate.
+
+4) Yangtze river carrying the most significant amount of plastic waste, which is around 333 thousand tons, is the longest river in Asia and the third-largest in the world. Yangtze river alone carries 23.71 % of total plastic waste.
+
+5) Maximum plastic waste in the ocean is coming from Asia. It is plastic waste input rate in percent is 86.13%
+
+6) Covid-19 Pandemic might change the statistics in the coming months, but it is uncertain as we lack proper evidence (Data).
